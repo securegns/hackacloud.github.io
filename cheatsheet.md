@@ -4,6 +4,7 @@
 
 ## Resources
 ## Vulnerable cloud
+- https://github.com/RhinoSecurityLabs/Cloud-Security-Research
 - https://github.com/DataDog/stratus-red-team
 - https://github.com/FSecureLABS/leonidas
 - flaws.cloud
